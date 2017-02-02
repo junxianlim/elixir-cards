@@ -1,8 +1,6 @@
-A simple Cards module built while learning Elixir
+# A simple Cards module built while learning Elixir
 
-- Uses doctest for testing.
-
-Setup:
+### Setup
 
 - Clone repo and cd into directory.
 - `mix deps` to install Dependencies
